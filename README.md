@@ -5,10 +5,10 @@ UyumluOdaAI, öğrenci yurtlarında kişilik testine dayalı oda arkadaşlığı
 ---
 
 ## 🚀 Özellikler
-- ● Kişilik testine dayalı analiz
-- ● Otomatik en uygun oda eşleştirme algoritması
-- ● Web tabanlı kullanıcı arayüzü 
-- ● Cosine Similarity ve K-Medoids algoritması kullanımı
+- Kişilik testine dayalı analiz
+- Otomatik en uygun oda eşleştirme algoritması
+- Web tabanlı kullanıcı arayüzü 
+- Cosine Similarity ve K-Medoids algoritması kullanımı
   
 ---
 
@@ -26,7 +26,7 @@ Uygulamayı başlatın:
 2-Sistem, kişilik verilerine göre en uygun odaları yüzdelik uyum oranı ile önerir.
 3-Öğrenci onayladığında, sistem eşleştirmeyi otomatik olarak tamamlar.
 
-🎯 Katkıda Bulunma
+## 🎯 Katkıda Bulunma
 1-Bu repoyu forklayın
 2-Yeni bir branch oluşturun 
 3-Değişikliklerinizi yapıp commit edin
