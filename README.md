@@ -22,9 +22,9 @@ Uygulamayı başlatın:
 ---
   
 ## 📝 Kullanım
-1-Web arayüzünü açın ve Yurt Oda Değiştirme butonuna tıklayın.
-2-Sistem, kişilik verilerine göre en uygun odaları yüzdelik uyum oranı ile önerir.
-3-Öğrenci onayladığında, sistem eşleştirmeyi otomatik olarak tamamlar.
+-Web arayüzünü açın ve Yurt Oda Değiştirme butonuna tıklayın.
+-Sistem, kişilik verilerine göre en uygun odaları yüzdelik uyum oranı ile önerir.
+-Öğrenci onayladığında, sistem eşleştirmeyi otomatik olarak tamamlar.
 
 ## 🎯 Katkıda Bulunma
 1-Bu repoyu forklayın
