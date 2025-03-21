@@ -1,19 +1,27 @@
-#UyumluOdaAI
+# UyumluOdaAI
 
 UyumluOdaAI, öğrenci yurtlarında kişilik testine dayalı oda arkadaşlığı eşleştirmesi sunan bir yapay zeka projesidir. Amaç, öğrencilerin daha uyumlu bir yaşam alanına sahip olmalarını sağlamak ve oda değişim sürecini kolaylaştırmaktır.
 
-🚀 Özellikler
-● Kişilik testine dayalı analiz
-● Otomatik en uygun oda eşleştirme algoritması
-● Web tabanlı kullanıcı arayüzü 
-● Cosine Similarity ve K-Medoids algoritması kullanımı
+---
 
-🔧 Kurulum
+## 🚀 Özellikler
+- ● Kişilik testine dayalı analiz
+- ● Otomatik en uygun oda eşleştirme algoritması
+- ● Web tabanlı kullanıcı arayüzü 
+- ● Cosine Similarity ve K-Medoids algoritması kullanımı
+  
+---
+
+## 🔧 Kurulum
 Gerekli bağımlılıkları yükleyin:
-  pip install -r requirements.txt
+ ```bash
+pip install -r requirements.txt
   
 Uygulamayı başlatın:
-  python app.py
+  ```bash
+python app.py
+
+---
   
 📝 Kullanım
 1-Web arayüzünü açın ve Yurt Oda Değiştirme butonuna tıklayın.
