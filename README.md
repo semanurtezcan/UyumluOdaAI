@@ -21,7 +21,7 @@ Uygulamayı başlatın:
 
 ---
   
-##📝 Kullanım
+## 📝 Kullanım
 1-Web arayüzünü açın ve Yurt Oda Değiştirme butonuna tıklayın.
 2-Sistem, kişilik verilerine göre en uygun odaları yüzdelik uyum oranı ile önerir.
 3-Öğrenci onayladığında, sistem eşleştirmeyi otomatik olarak tamamlar.
