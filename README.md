@@ -14,12 +14,10 @@ UyumluOdaAI, öğrenci yurtlarında kişilik testine dayalı oda arkadaşlığı
 
 ## 🔧 Kurulum
 Gerekli bağımlılıkları yükleyin:
-  ```
-pip install -r requirements.txt
+` pip install -r requirements.txt `
   
 Uygulamayı başlatın:
-  ```
-python app.py
+` python app.py `
 
 ---
   
