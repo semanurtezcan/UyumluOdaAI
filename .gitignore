@@ -1,0 +1,9 @@
+# Sanal ortam klasörünü hariç tut
+venv/
+
+# Python önbellek dosyalarını hariç tut
+__pycache__/
+
+# Derleme dosyalarını hariç tut
+*.pyc
+*.pyo
