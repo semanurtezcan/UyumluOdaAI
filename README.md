@@ -14,16 +14,14 @@ UyumluOdaAI, öğrenci yurtlarında kişilik testine dayalı oda arkadaşlığı
 
 ## 🔧 Kurulum
 Gerekli bağımlılıkları yükleyin:
- ```bash
-pip install -r requirements.txt
+  pip install -r requirements.txt
   
 Uygulamayı başlatın:
-  ```bash
-python app.py
+  python app.py
 
 ---
   
-📝 Kullanım
+##📝 Kullanım
 1-Web arayüzünü açın ve Yurt Oda Değiştirme butonuna tıklayın.
 2-Sistem, kişilik verilerine göre en uygun odaları yüzdelik uyum oranı ile önerir.
 3-Öğrenci onayladığında, sistem eşleştirmeyi otomatik olarak tamamlar.
