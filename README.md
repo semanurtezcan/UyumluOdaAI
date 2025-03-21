@@ -11,15 +11,14 @@ UyumluOdaAI, öğrenci yurtlarında kişilik testine dayalı oda arkadaşlığı
 - Cosine Similarity ve K-Medoids algoritması kullanımı
   
 ---
-
 ## 🔧 Kurulum
 Gerekli bağımlılıkları yükleyin:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt ```
   
 Uygulamayı başlatın:
 ```bash
-python app.py 
+python app.py ```
 
 ---
   
