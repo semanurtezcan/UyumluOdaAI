@@ -11,6 +11,7 @@ UyumluOdaAI, öğrenci yurtlarında kişilik testine dayalı oda arkadaşlığı
 - Cosine Similarity ve K-Medoids algoritması kullanımı
   
 ---
+```markdown
 ## 🔧 Kurulum
 Gerekli bağımlılıkları yükleyin:
 ```bash
